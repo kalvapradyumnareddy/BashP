@@ -23,4 +23,4 @@ echo "Lower case:" : ${lower_case}
 
 
 
-
+echo "Test for branch merge" 
