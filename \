@@ -1,0 +1,7 @@
+#!/bin/bash
+
+string1=kalvapradyumnareddy
+
+length=${#string1}
+
+echo "String1 length": $length

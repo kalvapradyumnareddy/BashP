@@ -1,0 +1,6 @@
+<LocationServerMappings>
+  <ServerMapping location="https://dev.azure.com/v-reddykalva0195" guid="cabe7881-acfe-4ff2-8b89-efc0be2c19d6" owner="00025394-6065-48ca-87d9-7f5672854ef7" />
+  <ServerMapping location="https://dev.azure.com/v-reddykalva0195/" guid="cabe7881-acfe-4ff2-8b89-efc0be2c19d6" owner="00025394-6065-48ca-87d9-7f5672854ef7" />
+  <ServerMapping location="https://spsprodsbr2.vssps.visualstudio.com/Acabe7881-acfe-4ff2-8b89-efc0be2c19d6/" guid="cabe7881-acfe-4ff2-8b89-efc0be2c19d6" owner="951917ac-a960-4999-8464-e3f0aa25b381" />
+  <ServerMapping location="https://vsblobprodsbr1.vsblob.visualstudio.com/Acabe7881-acfe-4ff2-8b89-efc0be2c19d6/" guid="cabe7881-acfe-4ff2-8b89-efc0be2c19d6" owner="00000019-0000-8888-8000-000000000000" />
+</LocationServerMappings>
