@@ -3,3 +3,5 @@ This is File3
 adding new line
 
 adding second line
+
+adding from branch dev2 
